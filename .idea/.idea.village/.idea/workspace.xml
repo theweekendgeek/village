@@ -3,12 +3,39 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2de0bd35-f3d0-461a-86a2-07ea72257364" name="Default Changelist" comment="" />
+    <list default="true" id="2de0bd35-f3d0-461a-86a2-07ea72257364" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Docs/Design.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Docs/General.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Docs/puml/NpcInteraction.puml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.village/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.village/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.village/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.village/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Places/Building.cs" root0="FORCE_HIGHLIGHTING" />
@@ -36,10 +63,14 @@
         <option value="$PROJECT_DIR$/Assets/Npcs/INpc.cs" />
         <option value="$PROJECT_DIR$/Assets/Places/Sleep.cs" />
         <option value="$PROJECT_DIR$/Assets/Places/Kitchen.cs" />
+        <option value="$PROJECT_DIR$/Assets/Docs/puml/NpcInteraction.puml" />
+        <option value="$PROJECT_DIR$/Assets/Docs/Design.md" />
+        <option value="$PROJECT_DIR$/Assets/Docs/General.md" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1j3xMzll1a0hhO1oVngHsYkj8XX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,7 +79,7 @@
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="consents" />
+    <property name="settings.editor.selected.configurable" value="Settings.Markdown" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
@@ -79,27 +110,57 @@
       <option name="presentableId" value="Default" />
       <updated>1603046537676</updated>
       <workItem from="1603046561215" duration="7331000" />
-      <workItem from="1603131235531" duration="2995000" />
+      <workItem from="1603131235531" duration="3941000" />
+      <workItem from="1603135276380" duration="199000" />
     </task>
-    <servers />
+    <servers>
+      <GitHub url="https://github.com">
+        <option name="repoAuthor" value="theweekendgeek" />
+        <option name="repoName" value="village" />
+      </GitHub>
+    </servers>
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="668" y="256" key="#Servers" timestamp="1603135008093">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="256" key="#Servers/0.0.1920.1040@0.0.1920.1040" timestamp="1603135008093" />
+    <state x="690" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603135186977">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603135186977" />
     <state x="794" y="220" key="RiderGenerateDialog" timestamp="1603133665837">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="794" y="220" key="RiderGenerateDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603133665837" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1603135345951">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603135345951" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1603051489958">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1603051489958" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1603133984102">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1603135340796">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603133984102" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603135340796" />
   </component>
 </project>
